@@ -28,7 +28,7 @@ Patients visit multiple doctors, leading to:
 - **UNet** (Brain Tumor Segmentation)  
 - Instant AI-based medical imaging insights  
 
-### 📄 2. Unified Medical Report Generation  
+### 🗄 2. Unified Medical Report Generation  
 🧠 Uses **LangChain & Gemini AI** to generate structured medical reports  
 📝 Summarizes multiple prescriptions into **one cohesive document**  
 
@@ -123,22 +123,39 @@ This module will predict potential side effects of medications.
 
 ---
 
-## 🎡 AI Models Saved As:  
+## 🎈 AI Models Saved As:  
 - `Medical Images Diagnosis\chest_xray_model.h5`  
 - `Medical Images Diagnosis\brain_tumor_model.h5`  
 - `Prescription Side Effects\model.h5`  
 
 ---
 
+## 🛠️ Application Screenshots  
+
+Below are the screenshots of the application:
+
+![Screenshot 1](images/1.jpg)  
+![Screenshot 2](images/2.jpg)  
+![Screenshot 3](images/3.jpg)  
+![Screenshot 4](images/4.jpg)  
+![Screenshot 5](images/5.jpg)  
+![Screenshot 6](images/6.jpg)  
+![Screenshot 7](images/7.jpg)  
+![Screenshot 8](images/8.jpg)  
+![Screenshot 9](images/9.jpg)  
+![Screenshot 10](images/10.jpg)  
+![Screenshot 11](images/11.jpg)  
+![Screenshot 12](images/12.jpg)  
+---
+
 ## 🚀 Future Scope  
 💡 **Expansion to Other Medical Images** – Integrating AI models for CT Scans, Ultrasounds, and Pathology Slides.  
 🔍 **Enhanced NLP for Reports** – Improving GenAI-based report summarization.  
 🏨 **Personalized Healthcare Recommendations** – AI-driven patient-specific health suggestions.  
-🛠 **Integration with IoT & Wearables** – Real-time health monitoring using IoT devices.  
+🛠️ **Integration with IoT & Wearables** – Real-time health monitoring using IoT devices.  
 🌐 **Deployment on Cloud** – Scalable AI healthcare solutions for hospitals.  
 
 ---
 
 ## ⭐ Acknowledgments  
 Special thanks to **GoogleGirl Hackathon** for providing the opportunity to develop this project! 🎉  
-

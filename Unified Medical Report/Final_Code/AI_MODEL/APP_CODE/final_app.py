@@ -32,7 +32,7 @@ def clinical(pdf_file_path):
     return all_extracted_data
 
 # Initialize Google Generative AI
-API_KEY = "YOUR_GOOGLE_API_KEY"  # Replace with your actual API key
+API_KEY = "AIzaSyA8ZnWH9Kp2cOvp__OYVLJlrMeZcT4vmQg"  # Replace with your actual API key
 os.environ["GOOGLE_API_KEY"] = API_KEY
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
@@ -98,7 +98,7 @@ def generate_summary(extracted_reports):
 
 def initialize_llm():
     api_key = os.environ.get("GOOGLE_API_KEY", API_KEY)  # Make sure to replace this
-    llm = ChatGoogleGenerativeAI(google_api_key=api_key, temperature=0.7, model="gemini-pro")
+    llm = ChatGoogleGenerativeAI(google_api_key=api_key, temperature=0.7, model="gemini-1.5-flash")
     return llm
 
 def extract_report_details(report_text, llm):
@@ -179,7 +179,7 @@ def create_pdf(filename, data):
 
 # Streamlit UI
 def main():
-    st.title("Clinical Report Extraction and Summarization")
+    st.title("Unified Medical Report")
 
     uploaded_files = st.file_uploader("Upload PDF files", type=["pdf"], accept_multiple_files=True)
     

@@ -121,7 +121,7 @@ def generate_summary(extracted_reports):
 def initialize_llm():
     # Retrieve the API key from environment variable or use a default
     api_key = os.environ.get("GOOGLE_API_KEY", "YOUR_GOOGLE_API_KEY_HERE")  # Make sure to replace this
-    llm = ChatGoogleGenerativeAI(google_api_key=api_key, temperature=0.7, model="gemini-pro")
+    llm = ChatGoogleGenerativeAI(google_api_key=api_key, temperature=0.7, model="gemini-1.5-flash")
     return llm
 
 def extract_report_details(report_text, llm):
