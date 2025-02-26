@@ -1,0 +1,35 @@
+Patient Information:
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+
+Medications Prescribed:
+Amlodipine
+Dosage: 5 mg
+Frequency: Once daily
+
+Nitroglycerin
+Dosage: 0.4 mg
+Frequency: As needed
+
+Atorvastatin
+Dosage: 20 mg
+Frequency: Once daily
+
+Metoprolol
+Dosage: 25 mg
+Frequency: Once daily
+
+Aspirin
+Dosage: 81 mg
+Frequency: Once daily
+
+Observations:
+Monitor for side effects:
+Amlodipine: Edema, Dizziness
+Metoprolol: Bradycardia, Hypotension
+Liver function tests for atorvastatin recommended in 6 weeks.
+Lipid levels should be assessed in 3 months.
+
+Next Review:
+Return in 1 month for evaluation.

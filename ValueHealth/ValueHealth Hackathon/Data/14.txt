@@ -1,0 +1,96 @@
+Report 1:
+Report Type: Lab and Diagnostic Report
+Name: Emily Davis
+Age: 62
+Date of Birth: 1962-03-22
+Hospital: Willow Creek Hospital
+Date of Report: 2024-08-20
+Doctor: Dr. Mark Thompson
+
+Complete Blood Count (CBC):
+White Blood Cells: 5.4 x 10^9/L, Reference Range: 4.0-11.0 x 10^9/L
+Hemoglobin: 13.0 g/dL, Reference Range: 12.0-16.0 g/dL
+Hematocrit: 38%, Reference Range: 36.0-46.0%
+Platelet Count: 300 x 10^9/L, Reference Range: 150-400 x 10^9/L
+
+Lipid Profile:
+Total Cholesterol: 190 mg/dL, Reference Range: <200 mg/dL
+LDL: 100 mg/dL, Reference Range: <100 mg/dL
+HDL: 60 mg/dL, Reference Range: >40 mg/dL
+Triglycerides: 150 mg/dL, Reference Range: <150 mg/dL
+
+Interpretation: Normal lipid profile; maintain current diet and exercise regimen.
+Recommendations: Annual follow-up for routine lab tests.
+
+Report 2:
+Report Type: Lab and Diagnostic Report
+Name: Emily Davis
+Age: 62
+Date of Birth: 1962-03-22
+Hospital: Sunnyvale Medical Center
+Date of Report: 2024-09-15
+Doctor: Dr. Lisa Reynolds
+
+Complete Blood Count (CBC):
+White Blood Cells: 6.0 x 10^9/L, Reference Range: 4.0-11.0 x 10^9/L
+Hemoglobin: 13.2 g/dL, Reference Range: 12.0-16.0 g/dL
+Hematocrit: 39%, Reference Range: 36.0-46.0%
+Platelet Count: 275 x 10^9/L, Reference Range: 150-400 x 10^9/L
+
+Lipid Profile:
+Total Cholesterol: 210 mg/dL, Reference Range: <200 mg/dL
+LDL: 130 mg/dL, Reference Range: <100 mg/dL
+HDL: 50 mg/dL, Reference Range: >40 mg/dL
+Triglycerides: 140 mg/dL, Reference Range: <150 mg/dL
+
+Interpretation: Mild elevation in total cholesterol; dietary modifications recommended.
+Recommendations: Repeat lipid panel in 3 months.
+
+Report 3:
+Report Type: Lab and Diagnostic Report
+Name: Emily Davis
+Age: 62
+Date of Birth: 1962-03-22
+Hospital: Riverbend Medical Center
+Date of Report: 2024-10-10
+Doctor: Dr. Brian White
+
+Complete Blood Count (CBC):
+White Blood Cells: 5.8 x 10^9/L, Reference Range: 4.0-11.0 x 10^9/L
+Hemoglobin: 12.8 g/dL, Reference Range: 12.0-16.0 g/dL
+Hematocrit: 37%, Reference Range: 36.0-46.0%
+Platelet Count: 290 x 10^9/L, Reference Range: 150-400 x 10^9/L
+
+Lipid Profile:
+Total Cholesterol: 220 mg/dL, Reference Range: <200 mg/dL
+LDL: 140 mg/dL, Reference Range: <100 mg/dL
+HDL: 55 mg/dL, Reference Range: >40 mg/dL
+Triglycerides: 180 mg/dL, Reference Range: <150 mg/dL
+
+Interpretation: Moderate dyslipidemia; lifestyle changes advised.
+Recommendations: Follow-up lipid panel in 6 months and consider referral to a dietitian.
+
+Output:
+Name: Emily Davis
+Age: 62
+Date of Birth: 1962-03-22
+
+Complete Blood Count (CBC):
+White Blood Cells: 5.4 - 6.0 x 10^9/L (Reference Range: 4.0 - 11.0 x 10^9/L)
+Hemoglobin: 12.8 - 13.2 g/dL (Reference Range: 12.0 - 16.0 g/dL)
+Hematocrit: 37% - 39% (Reference Range: 36.0 - 46.0%)
+Platelet Count: 275 - 300 x 10^9/L (Reference Range: 150 - 400 x 10^9/L)
+
+Lipid Profile:
+Total Cholesterol: 190 - 220 mg/dL (Reference Range: <200 mg/dL)
+LDL: 100 - 140 mg/dL (Reference Range: <100 mg/dL)
+HDL: 50 - 60 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 140 - 150 mg/dL (Reference Range: <150 mg/dL)
+
+Interpretation:
+Normal lipid profile with mild elevation in total cholesterol and moderate dyslipidemia noted; dietary modifications and lifestyle changes are advised.
+
+Recommendations:
+Annual follow-up for routine lab tests.
+Repeat lipid panel in 3 months.
+Follow-up lipid panel in 6 months and consider referral to a dietitian.

@@ -1,0 +1,18 @@
+STEPS TO USE THE CODE 
+
+1. input_reports.ipynb : This code is to generate all the input reports . If you want to create a new report you can add them under the report_content variable. (Note : This is not a part of the final app. This is only to create the input that is required for the final app)
+
+2. app_code.ipynb : This code has 4 parts
+
+a) 1st section : OCR extraction . The extracted text is saved to extracted_reports.txt in same directory
+b) 2nd section : The fine-tuned AI model which gives the summarized output . The output in the form of text is stored in summary_report.txt in same directory
+c) 3rd section : This is a model to separate the summary_report.txt content into key-value pairs for formatting the pdf . This is just for formatting and to give an appealing output. The output is stored in key_value.txt in same directory.
+d) 4th section : This part takes the key_value.txt as input and gives the output as a structured pdf file. The pdf file is saved as clinical_report_bullet.pdf in same directory
+
+NOTE : the other files in this folder are the example input files i have generated
+
+If all input files are ready just start running app_code.ipynb
+1. Run the whole code and give all the input file directories as input.
+2. Once thats done you can immediately get the final output and the intermediate text files as mentioned earlier.
+
+If new input files are required you can use input_reports.ipynb to create them.

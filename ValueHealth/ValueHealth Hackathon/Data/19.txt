@@ -1,0 +1,152 @@
+Report 1: Comprehensive Clinical Evaluation Report
+Name: Sarah Thompson
+Age: 48
+Date of Birth: 1976-03-22
+Gender: Female
+Hospital: Riverside Health Center
+Date of Visit: 2024-07-05
+Doctor: Dr. Michael Reed
+Chief Complaints:
+
+Persistent headaches
+Occasional blurry vision
+Light sensitivity
+Vital Signs:
+
+Blood Pressure: 135/85 mmHg
+Heart Rate: 76 bpm
+Respiratory Rate: 18 breaths/min
+Temperature: 98.4°F
+Neurological Exam:
+
+Mild tenderness over the frontal sinus area
+Cranial nerves II-XII intact
+Diagnosis:
+Chronic migraine with visual aura.
+
+Treatment Recommendations:
+
+Start on Sumatriptan 50mg for acute episodes.
+Prescription sunglasses for light sensitivity.
+Schedule an MRI to rule out structural abnormalities.
+Follow-Up Instructions:
+Return in 1 month or sooner if symptoms worsen.
+
+Report 2: Lab and Diagnostic Report
+Name: Sarah Thompson
+Age: 48
+Date of Birth: 1976-03-22
+Hospital: Riverside Health Center
+Date of Report: 2024-07-12
+Doctor: Dr. Laura Kim
+
+Complete Blood Count (CBC):
+
+White Blood Cells: 5.8x10^9/L, Reference Range: 4.0-11.0 x 10^9/L
+Hemoglobin: 13.7 g/dL, Reference Range: 13.0-17.0 g/dL
+Hematocrit: 41%, Reference Range: 38.0-50.0%
+Platelet Count: 210x10^9/L, Reference Range: 150-400 x 10^9/L
+Electrolyte Panel:
+
+Sodium: 139 mmol/L, Reference Range: 135-145 mmol/L
+Potassium: 4.1 mmol/L, Reference Range: 3.5-5.0 mmol/L
+Chloride: 102 mmol/L, Reference Range: 98-106 mmol/L
+MRI Results:
+
+No significant abnormalities detected.
+Interpretation:
+No structural abnormalities; likely neurological cause for migraines.
+
+Recommendations:
+Continue current migraine management plan. Follow-up in 3 months.
+
+Report 3: Comprehensive Clinical Evaluation Report
+Name: Sarah Thompson
+Age: 48
+Date of Birth: 1976-03-22
+Gender: Female
+Hospital: Central Neurology Clinic
+Date of Visit: 2024-08-15
+Doctor: Dr. James Collins
+Chief Complaints:
+
+Reduced headache frequency but persistent visual aura.
+Mild fatigue.
+Vital Signs:
+
+Blood Pressure: 130/80 mmHg
+Heart Rate: 70 bpm
+Respiratory Rate: 16 breaths/min
+Temperature: 98.2°F
+Neurological Exam:
+
+Visual fields normal.
+Cranial nerves II-XII intact.
+Diagnosis:
+Improvement in chronic migraine symptoms.
+
+Treatment Recommendations:
+
+Continue Sumatriptan 50mg as needed.
+Consider prophylactic treatment with Propranolol 10mg daily.
+Continue to monitor triggers and avoid caffeine.
+Follow-Up Instructions:
+Return in 6 weeks for reassessment of symptoms.
+
+Output :
+Unified Clinical Evaluation Report
+
+Patient Information:
+
+Name: Sarah Thompson
+Age: 48
+Date of Birth: 1976-03-22
+Gender: Female
+
+Chief Complaints:
+Persistent headaches
+Occasional blurry vision
+Light sensitivity
+
+Vital Signs:
+Blood Pressure: 135/85 mmHg
+Heart Rate: 76 bpm
+Respiratory Rate: 18 breaths/min
+Temperature: 98.4°F
+
+Physical Examination:
+Neurological Exam:
+Mild tenderness over the frontal sinus area
+Cranial nerves II-XII intact
+
+Diagnosis:
+Chronic migraine with visual aura.
+Lab and Diagnostic Findings:
+
+Complete Blood Count (CBC):
+White Blood Cells: 5.8 x 10^9/L (Reference Range: 4.0 - 11.0 x 10^9/L)
+Hemoglobin: 13.7 g/dL (Reference Range: 13.0 - 17.0 g/dL)
+Hematocrit: 41% (Reference Range: 38.0 - 50.0%)
+Platelet Count: 210 x 10^9/L (Reference Range: 150 - 400 x 10^9/L)
+
+Electrolyte Panel:
+Sodium: 139 mmol/L (Reference Range: 135 - 145 mmol/L)
+Potassium: 4.1 mmol/L (Reference Range: 3.5 - 5.0 mmol/L)
+Chloride: 102 mmol/L (Reference Range: 98 - 106 mmol/L)
+
+MRI Results:
+No significant abnormalities detected.
+
+Interpretation:
+No structural abnormalities; likely neurological cause for migraines.
+
+Treatment Recommendations:
+Start on Sumatriptan 50 mg for acute episodes.
+Prescription sunglasses for light sensitivity.
+Consider prophylactic treatment with Propranolol 10 mg daily.
+Continue to monitor triggers and avoid caffeine.
+Follow-up in 1 month or sooner if symptoms worsen.
+Continue current migraine management plan. Follow-up in 3 months for further evaluation.
+
+Follow-Up Instructions:
+Return in 6 weeks for reassessment of symptoms and to discuss further management.

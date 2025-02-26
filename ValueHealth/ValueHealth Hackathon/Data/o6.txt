@@ -1,0 +1,43 @@
+Patient Information:
+Name: Michael Brown
+Age: 62
+Date of Birth: 1962-01-10
+
+Medications Prescribed:
+
+Carvedilol
+Dosage: 12.5 mg
+Frequency: Twice daily
+
+Atorvastatin
+Dosage: 40 mg
+Frequency: Once daily
+
+Furosemide
+Dosage: 20 mg
+Frequency: Once daily
+
+Losartan
+Dosage: 50 mg
+Frequency: Once daily
+
+Metformin
+Dosage: 1000 mg
+Frequency: Twice daily
+
+Hydrochlorothiazide
+Dosage: 25 mg
+Frequency: Once daily
+
+Observations:
+Monitor for side effects:
+Carvedilol: Dizziness, Low blood pressure, Electrolyte imbalances
+Losartan: Hypotension, Dizziness
+Metformin: Hyperglycemia
+Hydrochlorothiazide: Hypotension, Dizziness
+
+Follow-up potassium levels recommended in 2 weeks.
+Renal function tests recommended in 1 month.
+
+Next Review:
+Return in 1 month for evaluation. 

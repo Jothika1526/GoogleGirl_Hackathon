@@ -1,0 +1,37 @@
+Comprehensive Clinical Evaluation Report
+
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+
+Chief Complaints:
+Chest pain radiating to the left arm
+Intermittent chest pressure
+Shortness of breath
+Dizziness and lightheadedness
+Episodes of fatigue
+Occasional palpitations
+
+Vital Signs:
+Blood Pressure: Ranged from 145/90 mmHg to 150/95 mmHg
+Heart Rate: Ranged from 88 bpm to 92 bpm
+Respiratory Rate: Ranged from 20 to 22 breaths/min
+Temperature: 98.6°F - 98.7°F
+
+Physical Examination:
+Cardiovascular: Systolic murmur detected at the lower sternal border during the initial examination, with regular heart rhythm. No further abnormalities noted in later evaluations.
+Neurological: No focal neurological deficits observed. Cranial nerves II-XII intact throughout evaluations.
+Diagnosis:
+Stable angina with possible coronary artery disease, warranting further investigation and testing (e.g., exercise tolerance test).
+
+Treatment Recommendations:
+Amlodipine 5 mg once daily for blood pressure management
+Metoprolol 25 mg once daily for heart rate control and symptom relief
+Nitroglycerin as needed for chest pain
+Cardiac rehabilitation referral
+Treadmill stress test to evaluate exercise tolerance and heart function
+Referral to cardiology for further evaluation
+Follow-Up Instructions:
+Return for reevaluation and to review results of the stress test. Regular follow-up is recommended to monitor angina and cardiovascular status.
+

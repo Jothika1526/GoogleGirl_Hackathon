@@ -1,0 +1,129 @@
+report 1 : Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-08-12
+Doctor: Dr. Emily Wong
+Chief Complaints: ['1. Chest pain radiating to left arm\n2. Shortness of breath\n3. Dizziness and lightheadedness']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 150/95 mmHg', 'Heart': 'Rate 92 bpm', 'Respiratory': 'Rate 20 breaths/min', 'Temperature': '98.6°F'}
+Cardiovascular: Systolic murmur at lower sternal border, Regular rhythm
+Neurological: No focal deficits, Cranial nerves II-XII intact
+Diagnosis: Stable angina, possible coronary artery disease.
+Treatment Recommendations: ['1. Start Amlodipine 5mg once daily\n2. Nitroglycerin for chest pain as needed\n3. Refer to cardiology for further evaluation']
+Follow-Up Instructions: Return in 1 month for reevaluation.
+
+report 2 : Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: Downtown Medical Center
+Date of Visit: 2024-09-12
+Doctor: Dr. Robert Allen
+Chief Complaints: ['1. Intermittent chest pressure\n2. Episodes of fatigue\n3. Occasional palpitations']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 145/90 mmHg', 'Heart': 'Rate 88 bpm', 'Respiratory': 'Rate 22 breaths/min', 'Temperature': '98.7°F'}
+Cardiovascular: None
+Neurological: None
+Diagnosis: Stable angina; recommend exercise tolerance test.
+Treatment Recommendations: ['1. Start Metoprolol 25mg once daily\n2. Schedule treadmill stress test\n3. Cardiac rehabilitation referral']
+Follow-Up Instructions: Return in 2 weeks for stress test results.
+
+Report 3:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-09-20
+Doctor: Dr. Robert Johnson
+Chief Complaints: ['1. Severe fatigue\n2. Occasional palpitations\n3. Difficulty sleeping']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 140/85 mmHg', 'Heart': 'Rate 88 bpm', 'Respiratory': 'Rate 18 breaths/min', 'Temperature': '98.7°F'}
+Cardiovascular: Regular rhythm, no murmurs
+Neurological: No focal deficits observed
+Diagnosis: Uncontrolled hypertension, likely secondary to stress.
+Treatment Recommendations: ['1. Start Lisinopril 10mg once daily\n2. Advise lifestyle modifications (diet and exercise)\n3. Schedule follow-up in 2 weeks for blood pressure check']
+Follow-Up Instructions: Return in 2 weeks for follow-up.
+
+Output :
+---
+
+**Comprehensive Clinical Evaluation Report**
+
+---
+
+### **Patient Information**  
+- **Name**: John Smith  
+- **Age**: 56  
+- **Date of Birth**: 1968-05-15  
+- **Gender**: Male  
+
+---
+
+### **Clinical Summary**  
+
+**Chief Complaints**:  
+- Chest pain radiating to left arm  
+- Intermittent chest pressure  
+- Shortness of breath  
+- Dizziness and lightheadedness  
+- Episodes of fatigue  
+- Occasional palpitations  
+- Severe fatigue  
+- Difficulty sleeping  
+
+**Vital Signs**:  
+- Blood Pressure: Ranges from 140/85 mmHg to 150/95 mmHg  
+- Heart Rate: Ranges from 88 bpm to 92 bpm  
+- Respiratory Rate: Ranges from 18 to 22 breaths/min  
+- Temperature: 98.6°F to 98.7°F  
+
+---
+
+### **Clinical Findings**  
+
+**Cardiovascular Examination**:  
+- Systolic murmur at lower sternal border noted during initial evaluation; otherwise, regular rhythm and no murmurs observed in subsequent evaluations.  
+
+**Neurological Examination**:  
+- No focal deficits observed in all evaluations. Cranial nerves II-XII intact.  
+
+---
+
+### **Diagnoses**  
+- **Stable angina**: Symptoms correlate with exertion and include chest pain and pressure.  
+- **Possible coronary artery disease**: Further evaluation recommended.  
+- **Uncontrolled hypertension**: Likely secondary to stress.  
+
+---
+
+### **Treatment Recommendations**  
+1. **Medications**:  
+   - Amlodipine 5 mg once daily  
+   - Nitroglycerin 0.4 mg as needed for chest pain  
+   - Metoprolol 25 mg once daily  
+   - Lisinopril 10 mg once daily  
+   - Atorvastatin 20 mg once daily  
+2. **Lifestyle Modifications**:  
+   - Dietary interventions and exercise  
+3. **Referrals**:  
+   - Cardiology for further evaluation  
+   - Cardiac rehabilitation referral  
+4. **Diagnostic Tests**:  
+   - Schedule treadmill stress test  
+   - Follow-up lipid panel in 3 months  
+
+---
+
+### **Follow-Up Instructions**  
+- Return in **2 weeks** for stress test results and blood pressure check.  
+- Reevaluation in **1 month** for comprehensive assessment of symptoms and treatment efficacy.  
+
+---
+
+### **Conclusion**  
+John Smith is being managed for stable angina and hypertension with a comprehensive treatment plan that includes medications, lifestyle modifications, and referrals for further evaluation. Continuous monitoring and follow-up appointments are essential to optimize his cardiovascular health and manage symptoms effectively.
+
+--- 

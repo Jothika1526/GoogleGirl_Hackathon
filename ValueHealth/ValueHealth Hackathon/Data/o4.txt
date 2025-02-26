@@ -1,0 +1,19 @@
+Specialist Consultation Report
+
+Patient Information:
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+
+Consultation Reason:
+Further evaluation of chest pain and risk assessment for coronary artery disease (CAD).
+
+Findings:
+Coronary angiography indicated; risk factors include hypertension and hyperlipidemia.
+Angina symptoms correlated with exertion.
+Stress test results pending; consider coronary angiography based on findings.
+Recommendations:
+Follow-up angiography.
+Referral to a dietitian for dietary management.
+Aggressive management of lipid levels and dietary intervention.
+Patient educated on lifestyle modifications.

@@ -1,0 +1,193 @@
+report 1 : Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-08-12
+Doctor: Dr. Emily Wong
+Chief Complaints: ['1. Chest pain radiating to left arm\n2. Shortness of breath\n3. Dizziness and lightheadedness']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 150/95 mmHg', 'Heart': 'Rate 92 bpm', 'Respiratory': 'Rate 20 breaths/min', 'Temperature': '98.6°F'}
+Cardiovascular: Systolic murmur at lower sternal border, Regular rhythm
+Neurological: No focal deficits, Cranial nerves II-XII intact
+Diagnosis: Stable angina, possible coronary artery disease.
+Treatment Recommendations: ['1. Start Amlodipine 5mg once daily\n2. Nitroglycerin for chest pain as needed\n3. Refer to cardiology for further evaluation']
+Follow-Up Instructions: Return in 1 month for reevaluation.
+
+report 2 : Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: Downtown Medical Center
+Date of Visit: 2024-09-12
+Doctor: Dr. Robert Allen
+Chief Complaints: ['1. Intermittent chest pressure\n2. Episodes of fatigue\n3. Occasional palpitations']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 145/90 mmHg', 'Heart': 'Rate 88 bpm', 'Respiratory': 'Rate 22 breaths/min', 'Temperature': '98.7°F'}
+Cardiovascular: None
+Neurological: None
+Diagnosis: Stable angina; recommend exercise tolerance test.
+Treatment Recommendations: ['1. Start Metoprolol 25mg once daily\n2. Schedule treadmill stress test\n3. Cardiac rehabilitation referral']
+Follow-Up Instructions: Return in 2 weeks for stress test results.
+
+Report 3:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-09-20
+Doctor: Dr. Robert Johnson
+Chief Complaints: ['1. Severe fatigue\n2. Occasional palpitations\n3. Difficulty sleeping']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 140/85 mmHg', 'Heart': 'Rate 88 bpm', 'Respiratory': 'Rate 18 breaths/min', 'Temperature': '98.7°F'}
+Cardiovascular: Regular rhythm, no murmurs
+Neurological: No focal deficits observed
+Diagnosis: Uncontrolled hypertension, likely secondary to stress.
+Treatment Recommendations: ['1. Start Lisinopril 10mg once daily\n2. Advise lifestyle modifications (diet and exercise)\n3. Schedule follow-up in 2 weeks for blood pressure check']
+Follow-Up Instructions: Return in 2 weeks for follow-up.
+
+
+Report 4:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-09-10
+Doctor: Dr. Sarah Johnson
+Chief Complaints: ['1. Frequent headaches\n2. Occasional nausea\n3. Fatigue']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 130/85 mmHg', 'Heart': 'Rate 78 bpm', 'Respiratory': 'Rate 18 breaths/min', 'Temperature': '98.7°F'}
+Physical Examination: Neurological: No focal deficits observed.
+General: Patient appears well-nourished and in no acute distress.
+Diagnosis: Tension-type headaches, possible migraine triggers.
+Treatment Recommendations: ['1. Prescribe Ibuprofen 400mg as needed for headaches.\n2. Advise lifestyle modifications: Hydration', 'regular meals.\n3. Follow-up in 2 weeks to reassess.']
+Follow-Up Instructions: Schedule a follow-up in 2 weeks.
+
+Report 5:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-09-12
+Doctor: Dr. Michael Johnson
+Chief Complaints: ['1. Severe fatigue\n2. Occasional palpitations\n3. Mild swelling in the ankles']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 130/85 mmHg', 'Heart': 'Rate 78 bpm', 'Respiratory': 'Rate 18 breaths/min', 'Temperature': '98.4°F'}
+Physical Examination: Cardiovascular: Regular rhythm, no murmurs
+Respiratory: Clear to auscultation bilaterally
+Diagnosis: Uncontrolled hypertension, consider medication adjustment.
+Treatment Recommendations: ['1. Increase Lisinopril to 20mg once daily\n2. Monitor blood pressure weekly\n3. Follow-up in 2 weeks for re-evaluation']
+Follow-Up Instructions: Return in 2 weeks for blood pressure check.
+
+Report 6:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-09-20
+Doctor: Dr. Emily White
+Chief Complaints: ['1. Persistent cough\n2. Shortness of breath during exertion\n3. Occasional chest discomfort']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 135/90 mmHg', 'Heart': 'Rate 82 bpm', 'Respiratory': 'Rate 20 breaths/min', 'Temperature': '97.8°F'}
+Physical Examination: Respiratory: Wheezing noted on expiration
+Cardiovascular: No murmurs; regular rhythm
+Diagnosis: Asthma exacerbation; consider inhaler prescription.
+Treatment Recommendations: ['1. Prescribe Albuterol inhaler as needed\n2. Advise daily use of Fluticasone inhaler\n3. Follow-up in 1 month for asthma management']
+Follow-Up Instructions: Return in 1 month for reassessment.
+
+Output:
+---
+
+**Comprehensive Clinical Evaluation Report**
+
+---
+
+### **Patient Information**  
+- **Name**: John Smith  
+- **Age**: 56  
+- **Date of Birth**: 1968-05-15  
+- **Gender**: Male  
+
+---
+
+### **Clinical Summary**  
+
+**Chief Complaints**:  
+- Chest pain radiating to left arm  
+- Shortness of breath during exertion  
+- Dizziness and lightheadedness  
+- Intermittent chest pressure  
+- Severe fatigue  
+- Occasional palpitations  
+- Frequent headaches  
+- Mild swelling in the ankles  
+- Persistent cough  
+- Occasional nausea  
+- Difficulty sleeping  
+
+**Vital Signs**:  
+- **Blood Pressure**: Ranges from 130/85 mmHg to 150/95 mmHg  
+- **Heart Rate**: Ranges from 78 bpm to 92 bpm  
+- **Respiratory Rate**: Ranges from 18 to 22 breaths/min  
+- **Temperature**: Ranges from 97.8°F to 98.7°F  
+
+---
+
+### **Clinical Findings**  
+
+**Cardiovascular Examination**:  
+- Systolic murmur noted during the initial evaluation; otherwise, regular rhythm and no murmurs observed in subsequent evaluations.  
+- Mild swelling in ankles noted in one visit.  
+
+**Neurological Examination**:  
+- No focal deficits observed in all evaluations. Cranial nerves II-XII intact.  
+
+**Respiratory Examination**:  
+- Wheezing noted during one visit, with shortness of breath and persistent cough reported.  
+
+**Physical Examination**:  
+- Patient appeared well-nourished and in no acute distress during evaluations.  
+
+---
+
+### **Diagnoses**  
+1. **Stable Angina**: Symptoms correlate with exertion, including chest pain and pressure.  
+2. **Uncontrolled Hypertension**: Likely secondary to stress; medication adjustment recommended.  
+3. **Tension-Type Headaches**: Possible migraine triggers identified.  
+4. **Asthma Exacerbation**: Shortness of breath and wheezing noted; inhaler prescription considered.  
+
+---
+
+### **Treatment Recommendations**  
+1. **Medications**:  
+   - Amlodipine 5 mg once daily  
+   - Nitroglycerin 0.4 mg as needed for chest pain  
+   - Metoprolol 25 mg once daily  
+   - Lisinopril 10-20 mg once daily (increase as needed)  
+   - Ibuprofen 400 mg as needed for headaches  
+   - Albuterol inhaler as needed; Fluticasone inhaler for daily use  
+2. **Lifestyle Modifications**:  
+   - Dietary interventions and regular exercise  
+   - Hydration and regular meals  
+3. **Referrals**:  
+   - Cardiology for further evaluation  
+   - Cardiac rehabilitation referral  
+4. **Diagnostic Tests**:  
+   - Schedule treadmill stress test  
+   - Monitor blood pressure weekly  
+   - Follow-up lipid panel in 3 months  
+
+---
+
+### **Follow-Up Instructions**  
+- Return in **2 weeks** for blood pressure check and follow-up on stress test results.  
+- Reevaluation in **1 month** for comprehensive assessment of symptoms, asthma management, and treatment efficacy.  
+
+---
+
+### **Conclusion**  
+John Smith is being managed for stable angina, uncontrolled hypertension, tension-type headaches, and asthma exacerbation with a comprehensive treatment plan. Continuous monitoring and follow-up appointments are essential to optimize his overall health and manage symptoms effectively.

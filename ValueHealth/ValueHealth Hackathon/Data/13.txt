@@ -1,0 +1,102 @@
+Report 1:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: Sarah Johnson
+Age: 48
+Date of Birth: 1976-02-10
+Gender: Female
+Hospital: Green Valley Medical Center
+Date of Visit: 2024-07-20
+Doctor: Dr. Jessica Lee
+Chief Complaints: ['1. Persistent fatigue\n2. Frequent headaches\n3. Difficulty concentrating']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 130/85 mmHg', 'Heart': 'Rate 78 bpm', 'Respiratory': 'Rate 18 breaths/min', 'Temperature': '98.4°F'}
+Cardiovascular: No abnormalities detected
+Neurological: Mild tension-type headache; no other neurological signs
+Diagnosis: Chronic Fatigue Syndrome
+Treatment Recommendations: ['1. Increase fluid intake\n2. Schedule physical therapy\n3. Consider sleep study if symptoms persist']
+Follow-Up Instructions: Return in 1 month for re-evaluation.
+
+Report 2:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: Sarah Johnson
+Age: 48
+Date of Birth: 1976-02-10
+Gender: Female
+Hospital: Sunrise Community Hospital
+Date of Visit: 2024-08-15
+Doctor: Dr. Alan Thomas
+Chief Complaints: ['1. Increased fatigue\n2. Episodes of joint pain\n3. Difficulty sleeping']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 128/82 mmHg', 'Heart': 'Rate 80 bpm', 'Respiratory': 'Rate 19 breaths/min', 'Temperature': '98.6°F'}
+Cardiovascular: Regular rhythm, no murmurs
+Neurological: No deficits, normal cognitive function
+Diagnosis: Fibromyalgia
+Treatment Recommendations: ['1. Start Duloxetine 30mg once daily\n2. Recommend cognitive behavioral therapy\n3. Initiate a low-impact exercise program']
+Follow-Up Instructions: Return in 6 weeks to assess treatment response.
+
+Report 3:
+Report Type: Comprehensive Clinical Evaluation Report
+Name: Sarah Johnson
+Age: 49
+Date of Birth: 1976-02-10
+Gender: Female
+Hospital: Maplewood Hospital
+Date of Visit: 2024-09-30
+Doctor: Dr. Rachel Green
+Chief Complaints: ['1. Worsening joint pain\n2. Sleep disturbances\n3. New onset of anxiety symptoms']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 135/88 mmHg', 'Heart': 'Rate 85 bpm', 'Respiratory': 'Rate 20 breaths/min', 'Temperature': '98.7°F'}
+Cardiovascular: No signs of distress, normal heart sounds
+Neurological: Anxiety symptoms present, otherwise unremarkable
+Diagnosis: Fibromyalgia with anxiety
+Treatment Recommendations: ['1. Increase Duloxetine to 60mg once daily\n2. Start low-dose Lorazepam as needed for anxiety\n3. Recommend physical therapy']
+Follow-Up Instructions: Return in 1 month for follow-up and medication review.
+
+Output:
+Comprehensive Clinical Evaluation Report
+
+Patient Information:
+
+Name: Sarah Johnson
+Age: 49
+Date of Birth: 1976-02-10
+Gender: Female
+Summary of Visits:
+
+1. Visit Dates:
+July 20, 2024 at Green Valley Medical Center
+August 15, 2024 at Sunrise Community Hospital
+September 30, 2024 at Maplewood Hospital
+
+2. Chief Complaints:
+Persistent fatigue
+Increased fatigue
+Frequent headaches
+Difficulty concentrating
+Episodes of joint pain
+Difficulty sleeping
+Worsening joint pain
+Sleep disturbances
+New onset of anxiety symptoms
+
+3. Vital Signs:
+Blood Pressure: Ranged from 128/82 mmHg to 135/88 mmHg
+Heart Rate: Ranged from 78 bpm to 85 bpm
+Respiratory Rate: Ranged from 18 to 20 breaths/min
+Temperature: Ranged from 98.4°F to 98.7°F
+
+4. Diagnoses:
+Chronic Fatigue Syndrome
+Fibromyalgia
+Fibromyalgia with anxiety
+
+Treatment Recommendations:
+Increase fluid intake
+Schedule physical therapy
+Consider sleep study if symptoms persist
+Start Duloxetine (initially 30 mg, increased to 60 mg) once daily
+Recommend cognitive behavioral therapy
+Initiate a low-impact exercise program
+Start low-dose Lorazepam as needed for anxiety
+
+Follow-Up Instructions:
+Return in 1 month for re-evaluation (after July visit)
+Return in 6 weeks to assess treatment response (after August visit)
+Return in 1 month for follow-up and medication review (after September visit)

@@ -1,0 +1,33 @@
+Name: Sarah Thompson
+Age: 48
+Date of Birth: 1976-03-22
+Hospital: Riverside Health Center
+Date of Consultation: 2024-06-10
+Specialist: Dr. Michael Reed
+Consultation Reason: Persistent migraines and visual disturbances.
+Specialist Findings: MRI showed no structural abnormalities; symptoms suggestive of chronic migraine.
+Recommendations: Start on Topiramate 25 mg daily; avoid triggers like caffeine and stress. Follow-up in 2 months for medication adjustment.
+
+Report 2:
+Specialist Consultation Report
+
+Name: Sarah Thompson
+Age: 48
+Date of Birth: 1976-03-22
+Hospital: Central Neurology Clinic
+Date of Consultation: 2024-07-15
+Specialist: Dr. Laura Kim
+Consultation Reason: Follow-up for migraine treatment effectiveness.
+Specialist Findings: Reduction in headache frequency, but some mild side effects from medication (drowsiness). No visual disturbances reported.
+Recommendations: Increase Topiramate to 50 mg daily; regular hydration advised. Follow-up in 1 month to reassess side effects and migraine frequency.
+
+Report 3:
+Name: Sarah Thompson
+Age: 48
+Date of Birth: 1976-03-22
+Hospital: Lakeside General Hospital
+Date of Consultation: 2024-08-20
+Specialist: Dr. James Collins
+Consultation Reason: Reevaluation of chronic migraine after medication increase.
+Specialist Findings: Significant improvement in migraine control; patient tolerating medication well with no new side effects.
+Recommendations: Maintain current dose of Topiramate; continue avoiding migraine triggers. Next review in 6 months unless symptoms worsen.

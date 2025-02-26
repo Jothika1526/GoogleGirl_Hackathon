@@ -1,0 +1,9 @@
+reportlab
+pdfplumber
+google-generativeai
+os
+fpdf
+pandas
+langchain
+langchain_community
+langchain-google-genai

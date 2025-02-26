@@ -1,0 +1,24 @@
+Lab and Diagnostic Report
+
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+
+Complete Blood Count (CBC):
+White Blood Cells: 6.8 - 7.2 x 10^9/L (Reference Range: 4.0 - 11.0 x 10^9/L)
+Hemoglobin: 13.5 - 14.0 g/dL (Reference Range: 13.0 - 17.0 g/dL)
+Hematocrit: 40% - 42% (Reference Range: 38.0 - 50.0%)
+Platelet Count: 250 - 280 x 10^9/L (Reference Range: 150 - 400 x 10^9/L)
+
+Lipid Profile:
+Total Cholesterol: 230 - 240 mg/dL (Reference Range: <200 mg/dL)
+LDL: 160 - 170 mg/dL (Reference Range: <100 mg/dL)
+HDL: 38 - 40 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 200 - 220 mg/dL (Reference Range: <150 mg/dL)
+
+Interpretation:
+Mild dyslipidemia and mild hypertension-related changes noted; diet and exercise changes are advised. Further ischemic workup is recommended.
+
+Recommendations:
+Follow-up lipid panel in 3 months.
+Schedule a follow-up for stress testing

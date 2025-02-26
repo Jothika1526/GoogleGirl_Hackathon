@@ -1,0 +1,63 @@
+Comprehensive Patient Report
+
+Patient Information:
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+
+Chief Complaints:
+Chest pain radiating to the left arm
+Intermittent chest pressure
+Shortness of breath
+Dizziness and lightheadedness
+Episodes of fatigue
+Occasional palpitations
+
+Vital Signs:
+Blood Pressure: Ranged from 145/90 mmHg to 150/95 mmHg
+Heart Rate: Ranged from 88 bpm to 92 bpm
+Respiratory Rate: Ranged from 20 to 22 breaths/min
+Temperature: 98.6°F - 98.7°F
+
+Physical Examination:
+Cardiovascular: Systolic murmur detected at lower sternal border during initial examination; regular heart rhythm with no further abnormalities noted.
+Neurological: No focal neurological deficits observed; cranial nerves II-XII intact.
+
+Laboratory and Diagnostic Findings:
+
+Complete Blood Count (CBC):
+White Blood Cells: 6.8 - 7.2 x 10^9/L
+Hemoglobin: 13.5 - 14.0 g/dL
+Hematocrit: 40% - 42%
+Platelet Count: 250 - 280 x 10^9/L
+
+Lipid Profile:
+Total Cholesterol: 230 - 240 mg/dL
+LDL: 160 - 170 mg/dL
+HDL: 38 - 40 mg/dL
+Triglycerides: 200 - 220 mg/dL
+
+Diagnosis:
+Stable angina with possible coronary artery disease (CAD).
+Mild dyslipidemia and hypertension-related changes.
+
+Treatment Recommendations:
+Amlodipine: 5 mg once daily for blood pressure management
+Metoprolol: 25 mg once daily for heart rate control and symptom relief
+Nitroglycerin: 0.4 mg as needed for chest pain
+Atorvastatin: 20 mg once daily for lipid management
+Aspirin: 81 mg once daily
+Referral to cardiac rehabilitation and dietitian for dietary management.
+Treadmill stress test to evaluate exercise tolerance and heart function.
+
+Observations:
+Side Effects Monitoring:
+Amlodipine: Edema, Dizziness
+Metoprolol: Bradycardia, Hypotension
+Liver Function Tests: Recommended for atorvastatin in 6 weeks.
+
+Follow-Up: Lipid levels should be assessed in 3 months.
+
+Next Review:
+Return in 1 month for evaluation and to review results of the stress test. Regular follow-up is recommended to monitor angina and cardiovascular status.

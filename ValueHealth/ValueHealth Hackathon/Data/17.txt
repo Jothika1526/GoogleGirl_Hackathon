@@ -1,0 +1,65 @@
+Report 1:
+Name: David Miller
+Age: 62
+Date of Birth: 1962-04-10
+Hospital: Westside Medical Center
+Date of Consultation: 2024-07-20
+Specialist: Dr. James Baker
+Consultation Reason: Evaluation of shortness of breath and possible heart failure.
+Specialist Findings: Echocardiogram revealed reduced ejection fraction; signs of congestive heart failure.
+Recommendations: Start on ACE inhibitors and beta-blockers; follow-up echocardiogram in 3 months. Referral to cardiology for heart failure management.
+
+Report 2:
+Specialist Consultation Report
+
+Name: David Miller
+Age: 62
+Date of Birth: 1962-04-10
+Hospital: City Heart Clinic
+Date of Consultation: 2024-08-22
+Specialist: Dr. Rachel Thompson
+Consultation Reason: Monitoring of heart failure symptoms and treatment adjustment.
+Specialist Findings: Mild improvement in symptoms; fluid retention still present. Blood pressure stable.
+Recommendations: Increase diuretic dosage; restrict fluid intake further. Regular blood pressure monitoring and sodium-restricted diet advised.
+
+Report 3:
+Name: David Miller
+Age: 62
+Date of Birth: 1962-04-10
+Hospital: Eastside Cardiology
+Date of Consultation: 2024-09-25
+Specialist: Dr. Linda Morgan
+Consultation Reason: Re-evaluation after treatment changes for heart failure.
+Specialist Findings: Notable improvement in shortness of breath; weight stable. Echo shows slight improvement in ejection fraction.
+Recommendations: Continue current medications; follow-up in 6 months for cardiac MRI. Encourage mild exercise and strict adherence to low-sodium diet.
+
+Output:
+Specialist Consultation Report
+
+Patient Information:
+Name: David Miller
+Age: 62
+Date of Birth: 1962-04-10
+
+Consultation Reason:
+Evaluation and management of heart failure symptoms.
+
+Findings:
+
+Echocardiogram: Revealed reduced ejection fraction, signs of congestive heart failure.
+Fluid Retention: Mild improvement in symptoms but fluid retention still present.
+Blood Pressure: Stable during consultations.
+Follow-up Echo: Slight improvement in ejection fraction.
+Recommendations:
+
+Start on ACE inhibitors and beta-blockers.
+Increase diuretic dosage; restrict fluid intake further.
+Follow-up echocardiogram in 3 months; cardiac MRI in 6 months.
+Continue medications, adhere to a sodium-restricted diet, and mild exercise advised.
+Patient Education:
+
+Regular blood pressure monitoring.
+Importance of lifestyle modifications, including a low-sodium diet.
+Next Review:
+
+Follow-up cardiac MRI in 6 months.

@@ -1,0 +1,70 @@
+report 1 : Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-08-12
+Doctor: Dr. Emily Wong
+Chief Complaints: ['1. Chest pain radiating to left arm\n2. Shortness of breath\n3. Dizziness and lightheadedness']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 150/95 mmHg', 'Heart': 'Rate 92 bpm', 'Respiratory': 'Rate 20 breaths/min', 'Temperature': '98.6°F'}
+Cardiovascular: Systolic murmur at lower sternal border, Regular rhythm
+Neurological: No focal deficits, Cranial nerves II-XII intact
+Diagnosis: Stable angina, possible coronary artery disease.
+Treatment Recommendations: ['1. Start Amlodipine 5mg once daily\n2. Nitroglycerin for chest pain as needed\n3. Refer to cardiology for further evaluation']
+Follow-Up Instructions: Return in 1 month for reevaluation.
+
+Report 2:
+Specialist Consultation Report
+
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Hospital: Downtown Medical Center
+Date of Consultation: 2024-09-16
+Specialist: Dr. Lisa Wong
+Consultation Reason: Assessment for CAD risk factors and management.
+Specialist Findings: Angina symptoms correlated with exertion.
+Stress test results pending; consider coronary angiography based on findings.
+Recommendations: Aggressive management of lipid levels; dietary intervention.
+
+Output:
+Unified Clinical Evaluation Report
+
+Patient Information:
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+
+Chief Complaints:
+Chest pain radiating to the left arm
+Shortness of breath
+Dizziness and lightheadedness
+
+Vital Signs:
+Blood Pressure: 150/95 mmHg
+Heart Rate: 92 bpm
+Respiratory Rate: 20 breaths/min
+Temperature: 98.6°F
+
+Physical Examination:
+Cardiovascular: Systolic murmur at lower sternal border, regular rhythm.
+Neurological: No focal deficits; cranial nerves II-XII intact.
+
+Diagnosis:
+Stable angina with possible coronary artery disease (CAD).
+Specialist Consultation Findings:
+Angina symptoms correlated with exertion.
+Stress test results are pending; consideration for coronary angiography based on findings.
+
+Treatment Recommendations:
+Start Amlodipine 5 mg once daily for blood pressure management.
+Nitroglycerin for chest pain as needed.
+Referral to cardiology for further evaluation.
+Aggressive management of lipid levels; dietary intervention.
+Return in 1 month for reevaluation.
+
+Follow-Up Instructions:
+Return in 1 month for evaluation and to discuss the results of the follow-up tests.
+

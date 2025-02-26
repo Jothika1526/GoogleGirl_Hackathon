@@ -1,0 +1,95 @@
+Report 1 : Report Type: Comprehensive Clinical Evaluation Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+Hospital: City General Hospital
+Date of Visit: 2024-08-12
+Doctor: Dr. Emily Wong
+Chief Complaints: ['1. Chest pain radiating to left arm\n2. Shortness of breath\n3. Dizziness and lightheadedness']
+Vital Signs: {'Vital': 'Sign Value', 'Blood': 'Pressure 150/95 mmHg', 'Heart': 'Rate 92 bpm', 'Respiratory': 'Rate 20 breaths/min', 'Temperature': '98.6°F'}
+Cardiovascular: Systolic murmur at lower sternal border, Regular rhythm
+Neurological: No focal deficits, Cranial nerves II-XII intact
+Diagnosis: Stable angina, possible coronary artery disease.
+Treatment Recommendations: ['1. Start Amlodipine 5mg once daily\n2. Nitroglycerin for chest pain as needed\n3. Refer to cardiology for further evaluation']
+Follow-Up Instructions: Return in 1 month for reevaluation.
+
+Report 2 :
+Report Type: Lab and Diagnostic Report
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Hospital: City General Hospital
+Date of Report: 2024-08-14
+Doctor: Dr. Emily Wong
+
+Complete Blood Count (CBC):
+White Blood Cells: 7.2x10^9/L ,Reference Range= 4.0-11.0 x 10^9/L
+Hemoglobin: 13.5 g/dL ,Reference Range=13.0-17.0 g/dL
+Hematocrit : 40% ,Reference Range=38.0-50.0%
+Platelet Count: 250x10^9/L ,Reference Range=150-400 x 10^9/L
+
+Lipid Profile:
+Total Cholesterol :240 mg/dL ,Reference Range=<200 mg/dL
+LDL: 160 mg/dL ,Reference Range= <100 mg/dL
+HDL: 38 mg/dL ,Reference Range= >40 mg/dL
+Triglycerides: 200 mg/dL ,Reference Range= <150 mg/dL
+
+Interpretation: Mild hypertension-related changes; further ischemic workup recommended.
+Recommendations: Schedule a follow-up for stress testing.
+
+Output:
+
+Unified Clinical Evaluation Report
+
+Patient Information:
+
+Name: John Smith
+Age: 56
+Date of Birth: 1968-05-15
+Gender: Male
+
+Chief Complaints:
+Chest pain radiating to the left arm
+Shortness of breath
+Dizziness and lightheadedness
+
+Vital Signs:
+Blood Pressure: 150/95 mmHg
+Heart Rate: 92 bpm
+Respiratory Rate: 20 breaths/min
+Temperature: 98.6°F
+
+Physical Examination:
+Cardiovascular: Systolic murmur at lower sternal border, regular rhythm.
+Neurological: No focal neurological deficits; cranial nerves II-XII intact.
+
+Diagnosis:
+Stable angina with possible coronary artery disease (CAD).
+
+Lab and Diagnostic Findings:
+Complete Blood Count (CBC):
+White Blood Cells: 7.2 x 10^9/L (Reference Range: 4.0 - 11.0 x 10^9/L)
+Hemoglobin: 13.5 g/dL (Reference Range: 13.0 - 17.0 g/dL)
+Hematocrit: 40% (Reference Range: 38.0 - 50.0%)
+Platelet Count: 250 x 10^9/L (Reference Range: 150 - 400 x 10^9/L)
+
+Lipid Profile:
+Total Cholesterol: 240 mg/dL (Reference Range: <200 mg/dL)
+LDL: 160 mg/dL (Reference Range: <100 mg/dL)
+HDL: 38 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 200 mg/dL (Reference Range: <150 mg/dL)
+
+Interpretation:
+Mild hypertension-related changes noted; further ischemic workup is recommended.
+
+Treatment Recommendations:
+Start Amlodipine 5 mg once daily for blood pressure management.
+Nitroglycerin for chest pain as needed.
+Referral to cardiology for further evaluation.
+Schedule a follow-up for stress testing.
+
+Follow-Up Instructions:
+Return in 1 month for reevaluation and to discuss the results of the follow-up tests.
+
+
